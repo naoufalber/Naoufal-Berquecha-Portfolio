@@ -98,5 +98,5 @@ I enjoy building robust and interpretable ML models, designing data pipelines an
 ## 🌍 Contact
 
 📧 naoufalberquecha@hotmail.com  
-💼 LinkedIn: [https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/naoufal-berquecha-56840618b/)  ](https://www.linkedin.com/in/naoufal-berquecha-56840618b/)
+💼 LinkedIn: (https://www.linkedin.com/in/naoufal-berquecha-56840618b/)
 
