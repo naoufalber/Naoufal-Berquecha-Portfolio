@@ -8,7 +8,7 @@ Passionate about Machine Learning, Robust AI, Data Drift Mitigation and Explaina
 
 ## 📄 Resume
 
-[Download my Resume (PDF)](./CV_Naoufal_Berquecha.pdf)
+[Download my Resume (PDF)](./CV_Naoufal_Berquecha.html)
 
 ---
 
