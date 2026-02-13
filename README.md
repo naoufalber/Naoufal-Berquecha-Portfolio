@@ -91,7 +91,7 @@ I enjoy building robust and interpretable ML models, designing data pipelines an
 
 ## 📄 Resume
 
-[Download my CV](./Naoufal_Berquecha_CV.html)
+[Download my CV](./Naoufal Berquecha - CV.pdf)
 
 ---
 
