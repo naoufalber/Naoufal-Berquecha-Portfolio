@@ -1,7 +1,7 @@
 # Naoufal Berquecha
 
-###Engineering Student in Applied Mathematics & Data Science  
-###France  
+### Engineering Student in Applied Mathematics & Data Science  
+### France  
 
 Machine Learning | Deep Learning | Data Engineering
 
