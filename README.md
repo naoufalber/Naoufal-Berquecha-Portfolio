@@ -1,102 +1,92 @@
-# 👋 Hi, I'm Naoufal Berquecha
+# Naoufal Berquecha
 
-🎓 Applied Mathematics & Data Science Engineering Student  
-💻 Machine Learning • Deep Learning • Data Engineering  
-📍 France  
+Engineering Student in Applied Mathematics & Data Science  
+France  
 
----
-
-## 🚀 About Me
-
-I am an engineering student in Applied Mathematics and Data Science with strong expertise in machine learning, statistical modeling and data-driven systems.
-
-I enjoy building robust and interpretable ML models, designing data pipelines and transforming raw data into reliable decision systems.
+Machine Learning | Deep Learning | Data Engineering
 
 ---
 
-## 🧠 Technical Skills
+## About Me
 
-### 🔹 Programming
-- Python (Pandas, NumPy, SciPy, matplotlib, Scikit-learn, PyTorch, TensorFlow)
-- SQL
-- Scala
-- Java et Springboot
+I am an engineering student specializing in Applied Mathematics and Data Science.
 
-### 🔹 Machine Learning
-- Supervised & Unsupervised Learning
-- Gradient Boosting
-- Random Forest
-- Cross-validation
-- Hyperparameter Optimization
-- Model Evaluation (F1-score, ROC-AUC)
+I design robust and interpretable machine learning models, build scalable data pipelines, and transform raw data into operational decision systems.
 
-### 🔹 Deep Learning
-- Neural Networks (MLP)
-- LSTM
-- Feature Engineering
-
-### 🔹 Data Engineering
-- Python
-- Spark
-- Hadoop
-- ETL Pipelines
-- Data Quality Monitoring
-
-### 🔹 Tools & Platforms
-- Git
-- Jira
-- Power BI
+My approach combines mathematical rigor, production-oriented thinking, and business impact.
 
 ---
 
-## 💼 Professional Experience
+## Technical Stack
 
-### 🏦 Bpifrance — Data Supervision & Business Analyst (Apprenticeship)
+### Programming
+Python (Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, PyTorch, TensorFlow)  
+SQL  
+Scala  
+Java (Spring Boot)
+
+### Machine Learning
+Supervised & Unsupervised Learning  
+Gradient Boosting & Random Forest  
+Cross-validation & Hyperparameter Optimization  
+Model Evaluation (F1-score, ROC-AUC)
+
+### Deep Learning
+Neural Networks (MLP)  
+LSTM  
+Feature Engineering
+
+### Data Engineering
+Spark & Hadoop  
+ETL Pipelines  
+Data Quality Monitoring  
+
+### Tools
+Git  
+Jira  
+Power BI  
+
+---
+
+## Professional Experience
+
+### Bpifrance — Data Supervision & Business Analyst (Apprenticeship)
 *Sept 2024 – Present*
 
-- Designed data supervision framework (KPIs, monitoring metrics, dashboards)
+- Designed data supervision framework (KPIs, monitoring, dashboards)
 - Built ETL workflows for financial datasets
-- Contributed to regulatory e-invoicing reform (FacturX format)
-- Developed decision-support dashboards
+- Contributed to regulatory e-invoicing reform (FacturX)
+- Developed operational decision-support dashboards
 
----
-
-### 🌾 Ministry of Agriculture — Data Analyst Intern
+### Ministry of Agriculture — Data Analyst Intern
 *July – Aug 2024*
 
-- Data preprocessing using SQL & Python
-- Integrated ML models into decision systems
-- Performed exploratory data analysis & feature selection
+- Data preprocessing (SQL, Python)
+- Exploratory data analysis & feature selection
+- ML model integration into decision systems
 
 ---
 
-## 🔬 Academic Projects
+## Selected Projects
 
-### 📊 Robust Classification under Data Drift
-- Built Gradient Boosting pipeline
-- Simulated covariate & concept drift
-- Applied SHAP for model interpretability
-- Evaluated robustness via cross-validation
+**Robust Classification under Data Drift**
+- Gradient Boosting pipeline
+- Drift simulation (covariate & concept)
+- SHAP interpretability
+- Robustness evaluation
 
-### 🧠 Parkinson’s Disease Detection (Deep Learning)
-- Developed MLP & LSTM models
-- Compared models using ROC-AUC & F1-score
+**Parkinson’s Disease Detection**
+- MLP & LSTM models
+- ROC-AUC & F1-score comparison
 
-### 📈 Time Series Modeling (ARMA / ARIMA)
+**Time Series Modeling (ARMA / ARIMA)**
 - Stationarity testing
 - Parameter estimation
 - Forecast evaluation
 
 ---
 
-## 📄 Resume
+## Contact
 
-[Download my CV](./Naoufal Berquecha - CV.pdf)
-
----
-
-## 🌍 Contact
-
-📧 naoufalberquecha@hotmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/naoufal-berquecha-56840618b/
-
+Email: naoufalberquecha@hotmail.com  
+LinkedIn: https://www.linkedin.com/in/naoufal-berquecha-56840618b/
