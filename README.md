@@ -67,20 +67,48 @@ Power BI
 
 ## Selected Projects
 
-**Robust Classification under Data Drift**
-- Gradient Boosting pipeline
-- Drift simulation (covariate & concept)
-- SHAP interpretability
-- Robustness evaluation
+### Parkinson’s Disease Detection (Deep Learning)
+- Designed and evaluated an automated detection system using vocal signal features
+- Implemented MLP and LSTM architectures
+- Compared performance using ROC-AUC and F1-score
+- Focused on feature extraction and signal-based modeling
 
-**Parkinson’s Disease Detection**
-- MLP & LSTM models
-- ROC-AUC & F1-score comparison
+### Robust Classification under Data Drift
+- Built a Gradient Boosting pipeline with uncertainty analysis
+- Simulated covariate and concept drift scenarios
+- Applied SHAP for interpretability
+- Evaluated economic impact and mitigation strategies
 
-**Time Series Modeling (ARMA / ARIMA)**
-- Stationarity testing
-- Parameter estimation
-- Forecast evaluation
+### Road Accident Severity Prediction (France)
+- Developed an optimized Random Forest model
+- Used official French road accident datasets
+- Predicted accident severity levels
+- Improved model performance through feature selection and tuning
+
+### Hotel Booking Cancellation Prediction
+- Built a predictive model to anticipate booking cancellations
+- Optimized decision thresholds to improve revenue management
+- Applied classification techniques for operational forecasting
+
+### Time Series Forecasting (ARMA / ARIMA)
+- Conducted stationarity testing and model diagnostics
+- Performed parameter estimation
+- Evaluated real-world economic time series forecasting performance
+
+---
+
+## Continuous Learning
+
+### Certifications & Courses
+- IBM — Python for Data Science
+- Coursera — AI & Development Python for Data Science
+- Advanced Machine Learning (Model robustness, SHAP, Data Drift)
+- Time Series Analysis (ARMA / ARIMA modeling)
+
+### Practical Engagement
+- HackAudit 2025 — Final Phase Participant
+- Continuous exploration of ML interpretability, data reliability and production-ready systems
+- Active experimentation on real-world datasets to improve modeling robustness and deployment readiness
 
 ---
 
