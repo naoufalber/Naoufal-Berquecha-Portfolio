@@ -119,4 +119,4 @@ LinkedIn: https://www.linkedin.com/in/naoufal-berquecha-56840618b/
 
 ## Resume
 
-[Download my CV](./Naoufal_Berquecha_CV.pdf)
+[Download my CV](./Naoufal Berquecha _ CV.pdf)
