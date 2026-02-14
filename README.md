@@ -116,7 +116,3 @@ Power BI
 
 Email: naoufalberquecha@hotmail.com  
 LinkedIn: https://www.linkedin.com/in/naoufal-berquecha-56840618b/
-
-## Resume
-
-[Download my CV](./Naoufal Berquecha _ CV.pdf)
