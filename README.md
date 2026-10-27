@@ -1,118 +1,57 @@
-# Naoufal Berquecha
+# Naoufal Berquecha · Portfolio
 
-### Engineering Student in Applied Mathematics & Data Science  
-#### France  
+Portfolio personnel de **Naoufal Berquecha**, ingénieur en Mathématiques Appliquées & Data Science.
 
----
+Une présentation en français, construite autour de projets détaillés, de résultats vérifiables et d'un parcours de deux ans chez Bpifrance. Le site est écrit en **HTML, CSS et JavaScript natifs**, sans étape de compilation ni service tiers nécessaire au fonctionnement.
 
-## About Me
+## Parcourir le site
 
-I am an engineering student specializing in Applied Mathematics and Data Science.
+- **Le travail** : cinq études de cas filtrables, avec question, démarche, résultats, limites et liens GitHub.
+- **Une exploration** : comparaison interactive de deux modèles sur les résultats réels du projet BAAC 2023.
+- **Le parcours** : expériences professionnelles et formation reprises du CV fourni en octobre 2026.
+- **La méthode** : compétences, manière de travailler, certification et langues.
+- **Contact** : e-mail, copie de l'adresse, LinkedIn, GitHub et téléchargement du CV actuel.
 
-I design robust and interpretable machine learning models, build scalable data pipelines, and transform raw data into operational decision systems.
+Le site s'adapte aux petits écrans. Les liens et les études de cas restent consultables sans JavaScript ; les trois expériences sont alors affichées. La navigation utilise des contrôles HTML natifs et des états accessibles, avec prise en compte de `prefers-reduced-motion`.
 
-My approach combines mathematical rigor, production-oriented thinking, and business impact.
+## Projets présentés
 
----
+| Projet | Domaine | Dépôt |
+|---|---|---|
+| Souscription bancaire | Classification, suivi de dérive | [bank-marketing-ml-monitoring](https://github.com/naoufalber/bank-marketing-ml-monitoring) |
+| Actualités BBC | NLP, TF-IDF, SVM | [bbc-news-nlp-classification](https://github.com/naoufalber/bbc-news-nlp-classification) |
+| Gravité des accidents routiers | Random Forest, données BAAC | [france-road-accident-severity-ml](https://github.com/naoufalber/france-road-accident-severity-ml) |
+| Immobilier au Canada | Séries temporelles, SARIMA, R | [canada-housing-sarima-forecasting](https://github.com/naoufalber/canada-housing-sarima-forecasting) |
+| CineSearch | Elasticsearch, Python, Docker | [cinesearch-elasticsearch](https://github.com/naoufalber/cinesearch-elasticsearch) |
 
-## Technical Stack
+Les crédits des projets collectifs sont affichés dans les fiches et conservés dans leurs dépôts. Les résultats historiques ne sont pas présentés comme de nouvelles validations. Le script R reste à exécuter ; aucune performance de prévision n'est inventée.
 
-### Programming
-Python (Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, PyTorch, TensorFlow)  
-SQL  
-Scala  
-Java (Spring Boot)
+## Exécuter localement
 
-### Machine Learning
-Supervised & Unsupervised Learning  
-Gradient Boosting & Random Forest  
-Cross-validation & Hyperparameter Optimization  
-Model Evaluation (F1-score, ROC-AUC)
+```bash
+git clone https://github.com/naoufalber/Naoufal-Berquecha-Portfolio.git
+cd Naoufal-Berquecha-Portfolio
+python -m http.server 8000
+```
 
-### Deep Learning
-Neural Networks (MLP)  
-LSTM  
-Feature Engineering
+Ouvrir `http://localhost:8000`. Aucun package à installer.
 
-### Data Engineering
-Spark & Hadoop  
-ETL Pipelines  
-Data Quality Monitoring  
+## Organisation
 
-### Tools
-Git  
-Jira  
-Power BI  
+| Fichier | Rôle |
+|---|---|
+| `index.html` | Contenu, sections, études de cas et liens |
+| `styles.css` | Identité visuelle, responsive, impression et mouvement réduit |
+| `script.js` | Filtres, expériences, comparaison de modèles et menu mobile |
+| `assets/` | Portrait, graphiques, icône et polices locales |
+| `Naoufal Berquecha _ CV.pdf` | CV actuel, avec le chemin historique conservé |
+| `Naoufal Berquecha - CV.html` | Redirection de l'ancienne page vers le portfolio |
+| `docs/content-and-validation.md` | Sources des contenus et contrôles effectués |
 
----
+Pour modifier un projet, éditer sa section `<details class="project">` dans `index.html`. Les filtres correspondent à `data-category`. Le nombre initial de projets se trouve dans la barre de filtres. Les tableaux de la comparaison interactive sont dans `script.js`.
 
-## Professional Experience
+## Publication
 
-### Bpifrance — Data Supervision & Business Analyst (Apprenticeship)
-*Sept 2024 – Present*
+Site compatible avec **GitHub Pages**, publié depuis la branche `main`, dossier `/ (root)`. Tous les chemins internes sont relatifs et compatibles avec le sous-chemin du dépôt. `.nojekyll` permet de servir les fichiers statiques directement.
 
-- Designed data supervision framework (KPIs, monitoring, dashboards)
-- Built ETL workflows for financial datasets
-- Contributed to regulatory e-invoicing reform (FacturX)
-- Developed operational decision-support dashboards
-
-### Ministry of Agriculture — Data Analyst Intern
-*July – Aug 2024*
-
-- Data preprocessing (SQL, Python)
-- Exploratory data analysis & feature selection
-- ML model integration into decision systems
-
----
-
-## Selected Projects
-
-### Parkinson’s Disease Detection (Deep Learning)
-- Designed and evaluated an automated detection system using vocal signal features
-- Implemented MLP and LSTM architectures
-- Compared performance using ROC-AUC and F1-score
-- Focused on feature extraction and signal-based modeling
-
-### Robust Classification under Data Drift
-- Built a Gradient Boosting pipeline with uncertainty analysis
-- Simulated covariate and concept drift scenarios
-- Applied SHAP for interpretability
-- Evaluated economic impact and mitigation strategies
-
-### Road Accident Severity Prediction (France)
-- Developed an optimized Random Forest model
-- Used official French road accident datasets
-- Predicted accident severity levels
-- Improved model performance through feature selection and tuning
-
-### Hotel Booking Cancellation Prediction
-- Built a predictive model to anticipate booking cancellations
-- Optimized decision thresholds to improve revenue management
-- Applied classification techniques for operational forecasting
-
-### Time Series Forecasting (ARMA / ARIMA)
-- Conducted stationarity testing and model diagnostics
-- Performed parameter estimation
-- Evaluated real-world economic time series forecasting performance
-
----
-
-## Continuous Learning
-
-### Certifications & Courses
-- IBM — Python for Data Science
-- Coursera — AI & Development Python for Data Science
-- Advanced Machine Learning (Model robustness, SHAP, Data Drift)
-- Time Series Analysis (ARMA / ARIMA modeling)
-
-### Practical Engagement
-- HackAudit 2025 — Final Phase Participant
-- Continuous exploration of ML interpretability, data reliability and production-ready systems
-- Active experimentation on real-world datasets to improve modeling robustness and deployment readiness
-
----
-
-## Contact
-
-Email: naoufalberquecha@hotmail.com  
-LinkedIn: https://www.linkedin.com/in/naoufal-berquecha-56840618b/
+Le portrait provient du profil GitHub de Naoufal. Les graphiques proviennent de ses dépôts de projets. Les polices DM Sans et DM Serif Display sont hébergées localement avec leurs licences SIL Open Font License dans `assets/`. Aucun outil de mesure d'audience, cookie publicitaire, formulaire simulé ou appel à un modèle n'est intégré.
