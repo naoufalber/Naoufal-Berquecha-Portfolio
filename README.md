@@ -10,7 +10,7 @@ Une présentation en français, construite autour de projets détaillés, de ré
 - **Une exploration** : comparaison interactive de deux modèles sur les résultats réels du projet BAAC 2023.
 - **Le parcours** : expériences professionnelles et formation reprises du CV fourni en octobre 2026.
 - **La méthode** : compétences, manière de travailler, certification et langues.
-- **Contact** : e-mail, copie de l'adresse, LinkedIn, GitHub et téléchargement du CV actuel.
+- **Contact** : e-mail, copie de l'adresse, téléphone avec appel direct, LinkedIn, GitHub et téléchargement du CV actuel.
 
 Le site s'adapte aux petits écrans. Les liens et les études de cas restent consultables sans JavaScript ; les trois expériences sont alors affichées. La navigation utilise des contrôles HTML natifs et des états accessibles, avec prise en compte de `prefers-reduced-motion`.
 
@@ -54,4 +54,4 @@ Pour modifier un projet, éditer sa section `<details class="project">` dans `in
 
 Site compatible avec **GitHub Pages**, publié depuis la branche `main`, dossier `/ (root)`. Tous les chemins internes sont relatifs et compatibles avec le sous-chemin du dépôt. `.nojekyll` permet de servir les fichiers statiques directement.
 
-Le portrait provient du profil GitHub de Naoufal. Les graphiques proviennent de ses dépôts de projets. Les polices DM Sans et DM Serif Display sont hébergées localement avec leurs licences SIL Open Font License dans `assets/`. Aucun outil de mesure d'audience, cookie publicitaire, formulaire simulé ou appel à un modèle n'est intégré.
+Le portrait provient du profil GitHub de Naoufal. Les graphiques proviennent de ses dépôts de projets. La typographie privilégie Calibri Light lorsqu’elle est disponible sur l’appareil. Une version latine de Source Sans 3 assure le remplacement. Elle est renommée Portfolio Sans pour respecter le nom réservé de la police originale, et hébergée localement en WOFF avec sa licence SIL Open Font License dans `assets/`. Les titres utilisent une graisse légère ; les libellés et les chiffres restent sans empattement. Aucun outil de mesure d'audience, cookie publicitaire, formulaire simulé ou appel à un modèle n'est intégré.
