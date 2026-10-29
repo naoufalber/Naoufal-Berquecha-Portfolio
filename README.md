@@ -1,5 +1,9 @@
 # Naoufal Berquecha · Portfolio
 
+**[Découvrir le portfolio de Naoufal Berquecha — Data Science, Machine Learning & Data Engineering](https://naoufalber.github.io/Naoufal-Berquecha-Portfolio/)**
+
+[Profil GitHub](https://github.com/naoufalber) · [LinkedIn](https://www.linkedin.com/in/naoufal-berquecha-56840618b/)
+
 Portfolio personnel de **Naoufal Berquecha**, ingénieur en Mathématiques Appliquées & Data Science.
 
 Une présentation en français, construite autour de projets détaillés, de résultats vérifiables et d'un parcours de deux ans chez Bpifrance. Le site est écrit en **HTML, CSS et JavaScript natifs**, sans étape de compilation ni service tiers nécessaire au fonctionnement.
