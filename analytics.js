@@ -15,8 +15,10 @@ if(url.searchParams.get('analytics')==='off'){
 window['ga-disable-'+id]=excluded;
 let started=false;
 function start(){
- if(excluded||started)return;
- started=true;window['ga-disable-'+id]=false;
+ if(excluded)return;
+ window['ga-disable-'+id]=false;
+ if(started){gtag('consent','update',{analytics_storage:'granted'});return;}
+ started=true;
  window.dataLayer=window.dataLayer||[];
  window.gtag=function(){window.dataLayer.push(arguments);};
  gtag('consent','default',{analytics_storage:'granted',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});
